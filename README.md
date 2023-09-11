@@ -6,5 +6,5 @@
 
 🌱 I’m currently working on Flac-Sat (FEMTA-enhanced laser communication satellite)
 
- 👍 I’m looking to collaborate on Software Projects in Satcom
+ 📌 I’m looking to collaborate on Software Projects in Satcom
 
